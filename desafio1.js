@@ -16,6 +16,3 @@ function trianguloInvertido(n) {
       posicao -= 1;
     };    
 }
-
-
-trianguloInvertido(3)
