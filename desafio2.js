@@ -16,6 +16,3 @@ function validadorSenha(senha) {
         console.log(`faltam ${6 - senhaString.length} caracteres para que a senha seja forte`);
     } 
 };
-
-
-validadorSenha('123');
