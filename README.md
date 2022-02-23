@@ -2,8 +2,6 @@
 
 Este repositório é destinado para a realização das questões referente ao processo seletivo da Academia Técnica Capgemini.
 
-⚠️ Em desenvolvimento! ⚠️
-
 ---
 
 ## Habilidades
