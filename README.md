@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do Desafio Técnico Capgemini! </h1>
+# Desafio Técnico Capgemini! </h1>
 
 Este repositório é destinado para a realização das questões referente ao processo seletivo da Academia Técnica Capgemini.
 
@@ -44,5 +44,3 @@ npm test desafio1
  
 
 ---
-
-### Gratidão! 🙏
